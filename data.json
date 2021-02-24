@@ -1,0 +1,15 @@
+{
+  "uid": "r1T7QGEJjPRjSQrwZvSN0eYdZ0n1",
+  "Email": "test1@gmail.com",
+  "Name": "Test1",
+  "Business_Name": "Test Business",
+  "Mobile": "918208394566",
+  "Personal_Price": "100",
+  "Enterprise_Price": "1000",
+  "Account_Status": true,
+  "Personal_App_ID": "price_1IOLKFJfPaVmMPuK43oHmpXv",
+  "Enterprise_App_ID": "test",
+  "repository": "genieiotiot/test3-reseller",
+  "Reseller_Page": "http://genieiotiot.github.io/test2-reseller",
+  "ToUpdate": "DB Updated. Updating Page"
+}
